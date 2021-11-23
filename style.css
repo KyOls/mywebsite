@@ -3,14 +3,12 @@ body {
     background-color: blanchedalmond;
     font-family: monospace;
 }
-button {
-    font-family: fantasy;
-    background-color: crimson;
-    color:white;
-    border-radius: 5px;
-    border-color: white;
-    border-width: 1px;
-}
 #btn1 {
-background-color: aquamarine;
+background-color: red;
+}
+#btn2 {
+    background-color: green;
+}
+#btn3 {
+    background-color: yellow;
 }
